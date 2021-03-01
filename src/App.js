@@ -1,7 +1,7 @@
 import './App.css';
 
 // Components
-import Homepage from './components/hompage.component'
+import Homepage from './pages/homepage/homepage.component';
 
 
 function App() {
